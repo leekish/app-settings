@@ -1,0 +1,24 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"ensure_newline_at_eof_on_save": true,
+	"rulers":
+	[
+		72, 79
+	],
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"font_size": 12,
+	"color_scheme": "Mariana.sublime-color-scheme",
+	"save_on_focus_lost": true,
+	"auto_find_in_selection": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"show_indentation": true,
+	"show_git_status_in_status_bar": true,
+}
